@@ -1,0 +1,16 @@
+id: IC11D8CCD
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:13:06.807699
+last_modified: 2023-02-09 15:13:06.807798
+source_metadata:
+  title: 'MSV 2,0: Prātimokṣasūtra'
+  language: zh
+bases:
+  61B2:
+    base_file: 61B2.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

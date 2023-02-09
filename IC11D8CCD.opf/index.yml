@@ -1,0 +1,11 @@
+id: 893e3a774389401484b6a234df28709a
+annotation_type: index
+revision: '00001'
+annotations:
+  5b3bdc5b5e8243ab997d74ec7c473541:
+    base: 61B2.txt
+    Chapters:
+    - title: Prātimokṣasūtra
+      span:
+        start: 0
+        end: 14725
